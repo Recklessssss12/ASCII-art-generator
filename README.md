@@ -7,6 +7,8 @@ Initially I made map of ASCII characters and then stored them in their increasin
 This is an example of image of ASCII characters.
 ![jaromil-hascii-sm](https://user-images.githubusercontent.com/94439916/174653355-c53ccd80-0b90-4453-84f8-2d5b1835234b.png)
 
+
+
 ORIGINAL PHOTO-
 ![messi1](https://user-images.githubusercontent.com/94439916/174651228-3084f91a-d3c5-45b4-bceb-7a66265b1ae5.jpeg)
 FILTERED PHOTO-
